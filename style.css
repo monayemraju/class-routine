@@ -1,0 +1,34 @@
+.class-routine{
+    text-align: center;
+    padding: 10px 20px 20px 10px;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+
+}
+.c-start{
+}
+.routine-details{
+    display: flex;
+    float: left;
+    
+}
+.routine-details p{
+   padding-left: 3rem;
+}
+
+
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    line-height: 25px;
+}
+tr td{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
